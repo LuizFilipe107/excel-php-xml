@@ -1,0 +1,23 @@
+.container {
+    padding-top: 20px;
+}
+
+.titleTable {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    background-color: #666;
+}
+
+.titleTable h2 {
+    color: #FFF;
+}
+
+.container .table .badge {
+    padding: 6px 10px;
+}
+
+.div-gerar-excel {
+    text-align: right;
+    margin: 10px 0;
+}
